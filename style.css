@@ -29,7 +29,7 @@
 		margin-right: auto;
 		margin-bottom: auto;
 	}
-	.sub {
+	.sub1 {
 		float: right;
 		width: 100px;
 		padding: 5px;
@@ -39,7 +39,28 @@
 		font-size: 125%;
 		font-weight: bold;
 		background-color: #B0D619;
-		
+	}
+	.sub2 {
+		float: right;
+		width: 100px;
+		padding: 5px;
+		margin: 0px;
+		border: 1px solid black;
+		text-align: center;
+		font-size: 125%;
+		font-weight: bold;
+		background-color: #D4A7C4;
+	}
+	.sub3 {
+		float: right;
+		width: 100px;
+		padding: 5px;
+		margin: 0px;
+		border: 1px solid black;
+		text-align: center;
+		font-size: 125%;
+		font-weight: bold;
+		background-color: #A7AED4;
 	}
 	.content {
 		padding: 5px;
@@ -51,8 +72,3 @@
 		height: 200px;
 		overflow: auto;
 	}
-	
-	.row {
-		width: 90%;
-	}
-	
